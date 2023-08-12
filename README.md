@@ -1,6 +1,6 @@
 # Text Manipulation Tool
 
-![Project Preview](screenshot.png) <!-- Replace with an actual screenshot of your project -->
+![Project Preview](./public/sample-img.jpeg) <!-- Replace with an actual screenshot of your project -->
 
 A simple React.js application that allows users to perform various text manipulation tasks on input text.
 
